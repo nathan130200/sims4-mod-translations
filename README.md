@@ -19,8 +19,7 @@ Enquanto isso, você poderá importar os arquivos `STBL` para dentro de um novo 
 > Sempre coloque sempre o simbolo de interrogação `!` no começo do nome do arquivo para indicar ao jogo que terá a maior prioridade para carregar a tradução ao invés do idioma original do mod! Não necessariamente se resume somente ao simbolo de interrogação. Um underline (`_`) também funciona. Basta observar no explorador de arquivos se a tradução está sempre acima do arquivo package do mod.
 
 > [!IMPORTANT]
-> Caso deseje contribuir com o repositório, os formatos de tradução DEVEM ser enviados em XML! Com isso podemos garantir que a tradução estará coerente, legível e segura para os jogadores poderem utilizar.
-> 
-> Para exportar para XML é muito fácil, basta usar o próprio <b>DP SBTL Editor</b>, ir no menu File -> Export XML.
-> 
-> Para importar do XML para fazer edições, é também pelo <b>DP STBL Editor</b>, basta ir no menu File -> Import XML. Fazer as edições, e exportar novamente para contribuir com a tradução comunitária.
+> Caso deseje contribuir com o repositório, os formatos de tradução DEVEM ser enviados em STBL pois precisamos dos dados originais como ID do mod, ID do registro do STBL etc.
+
+
+<b>Você pode acessar a lista de mods no arquivo [`MODS.md`](./MODS.md)</b>
